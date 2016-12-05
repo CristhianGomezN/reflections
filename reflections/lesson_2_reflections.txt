@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+    It creates a file name .git, it's necessary because without that I just have another folder that don't save my history
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    Staging area is non an area that you could edit, is just a path. It could offer a lot of control on the repository
