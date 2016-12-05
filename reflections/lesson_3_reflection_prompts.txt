@@ -6,3 +6,7 @@ Describe the differences between forks, clones, and branches. When would you use
   forks are clones on github, clones are clones on my pc, branches are make on repositories. I would make a fork when I want to    clone edit without permissions, clones when I want to get repositories on disk and branches when I am working and want to test something or to work non on my main thing
 What is the benefit of having a copy of the last known state of the remote stored locally?
   the benefit is that you could compare and keep track with the things that other users do or that you do on another machine without editing your actual archive on your own computer
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  with drives, dropbox or things like that, that would be incredible tedious,
+  because all the time I will have to notify people and ask for the things that they have made,
+  in addition I wouldn't have all my versions.
