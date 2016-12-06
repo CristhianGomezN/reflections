@@ -10,3 +10,5 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   with drives, dropbox or things like that, that would be incredible tedious,
   because all the time I will have to notify people and ask for the things that they have made,
   in addition I wouldn't have all my versions.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    When I just want to try something or to make any change that could crash everything
